@@ -1,0 +1,499 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		095DC23E935410384A7752FC /* ExerciseDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6714E919B34AD8E8D876EB2 /* ExerciseDetailView.swift */; };
+		0CE0A8C2510E5046B93685F1 /* RootTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6450FEF40C99731EC6A2605 /* RootTabView.swift */; };
+		27D78403F55A0920094CD810 /* ReusableViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84F28C43BB1FFBD8F295E620 /* ReusableViews.swift */; };
+		40DB54C623D07C3BB78E9A82 /* MuscleTaxonomy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31E2AACD73B5AF7869600AA4 /* MuscleTaxonomy.swift */; };
+		6B3CFB6C36B761F22B769EE8 /* ExerciseModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 292B5A4D5FD8A98B8E73404D /* ExerciseModels.swift */; };
+		9FFBC5EFA504E4CA04FCCB61 /* MusclePrecisionApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23045E2F3A286777E4DD93B7 /* MusclePrecisionApp.swift */; };
+		A50FC03F0D3A294506197529 /* PlannerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31856F0888E21B4079426D42 /* PlannerView.swift */; };
+		A5F569E6A2053D839C0A6B2A /* DashboardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0261DC18AC6A59E1B84AE045 /* DashboardView.swift */; };
+		A7988C39CD8C5799517AB368 /* ExerciseJSONValidationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2BA530DF4BE7064551AE29E /* ExerciseJSONValidationTests.swift */; };
+		B804CCA0CB23CF494A7EA8D0 /* LibraryStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEF95C09A13A82FEB15B62B4 /* LibraryStore.swift */; };
+		B86E79492A79A82AB008D0E0 /* ExerciseJSONLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A2A54CD784BB4DB8968A53C /* ExerciseJSONLoader.swift */; };
+		CAE28ABFB716F185A44BB4C2 /* ExerciseRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1BD2C8F0CC29B609A18F4BC /* ExerciseRowView.swift */; };
+		CB5481632747D7EB8BF46929 /* ExerciseSeedData.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE50B0A87F947F8D3A209BD9 /* ExerciseSeedData.swift */; };
+		E1F9D4FB80A4406F9C2502CD /* LibraryRootView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C91EB4B09D79D8B0E61CB33 /* LibraryRootView.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		7873F4376E28235967DFEE0B /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = AFD2B75AB79049FF7EDCB2A8 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = F5E4F6077D8431153901367E;
+			remoteInfo = MusclePrecision;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		0261DC18AC6A59E1B84AE045 /* DashboardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DashboardView.swift; sourceTree = "<group>"; };
+		23045E2F3A286777E4DD93B7 /* MusclePrecisionApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MusclePrecisionApp.swift; sourceTree = "<group>"; };
+		292B5A4D5FD8A98B8E73404D /* ExerciseModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExerciseModels.swift; sourceTree = "<group>"; };
+		31856F0888E21B4079426D42 /* PlannerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlannerView.swift; sourceTree = "<group>"; };
+		31E2AACD73B5AF7869600AA4 /* MuscleTaxonomy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MuscleTaxonomy.swift; sourceTree = "<group>"; };
+		5DDAC6AA525191A8A033403B /* MusclePrecision.app */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.application; path = MusclePrecision.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		84F28C43BB1FFBD8F295E620 /* ReusableViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReusableViews.swift; sourceTree = "<group>"; };
+		8A2A54CD784BB4DB8968A53C /* ExerciseJSONLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExerciseJSONLoader.swift; sourceTree = "<group>"; };
+		9C91EB4B09D79D8B0E61CB33 /* LibraryRootView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LibraryRootView.swift; sourceTree = "<group>"; };
+		B1BD2C8F0CC29B609A18F4BC /* ExerciseRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExerciseRowView.swift; sourceTree = "<group>"; };
+		BE50B0A87F947F8D3A209BD9 /* ExerciseSeedData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExerciseSeedData.swift; sourceTree = "<group>"; };
+		D6450FEF40C99731EC6A2605 /* RootTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootTabView.swift; sourceTree = "<group>"; };
+		D6714E919B34AD8E8D876EB2 /* ExerciseDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExerciseDetailView.swift; sourceTree = "<group>"; };
+		DEF95C09A13A82FEB15B62B4 /* LibraryStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LibraryStore.swift; sourceTree = "<group>"; };
+		EAF45B9C1EC4E5A9B641DB4C /* MusclePrecisionTests.xctest */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.cfbundle; path = MusclePrecisionTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		F2BA530DF4BE7064551AE29E /* ExerciseJSONValidationTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExerciseJSONValidationTests.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		06F10EAB4359CE68A2DB68D1 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				292B5A4D5FD8A98B8E73404D /* ExerciseModels.swift */,
+				31E2AACD73B5AF7869600AA4 /* MuscleTaxonomy.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		22B998F627DC142342A7F125 /* Shared */ = {
+			isa = PBXGroup;
+			children = (
+				DEF95C09A13A82FEB15B62B4 /* LibraryStore.swift */,
+				84F28C43BB1FFBD8F295E620 /* ReusableViews.swift */,
+			);
+			path = Shared;
+			sourceTree = "<group>";
+		};
+		23A2FDC8EC340D1EC0C6E63C /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				8A2A54CD784BB4DB8968A53C /* ExerciseJSONLoader.swift */,
+				BE50B0A87F947F8D3A209BD9 /* ExerciseSeedData.swift */,
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
+		51AB1CF38F62F30AFCC4854D = {
+			isa = PBXGroup;
+			children = (
+				9436D08966FA2474093C96A5 /* Sources */,
+				EE79511F355B3E6179D0BF88 /* Tests */,
+				5216C67A4CC4A338CCA68A5F /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		5216C67A4CC4A338CCA68A5F /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				5DDAC6AA525191A8A033403B /* MusclePrecision.app */,
+				EAF45B9C1EC4E5A9B641DB4C /* MusclePrecisionTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		717AF2DE4BC04A8FCBDFCE7C /* Library */ = {
+			isa = PBXGroup;
+			children = (
+				D6714E919B34AD8E8D876EB2 /* ExerciseDetailView.swift */,
+				B1BD2C8F0CC29B609A18F4BC /* ExerciseRowView.swift */,
+				9C91EB4B09D79D8B0E61CB33 /* LibraryRootView.swift */,
+			);
+			path = Library;
+			sourceTree = "<group>";
+		};
+		9436D08966FA2474093C96A5 /* Sources */ = {
+			isa = PBXGroup;
+			children = (
+				BFB45B947B98D5DF11397E8D /* App */,
+				23A2FDC8EC340D1EC0C6E63C /* Data */,
+				D77B29397B477530E9A9BCDA /* Features */,
+				06F10EAB4359CE68A2DB68D1 /* Models */,
+				22B998F627DC142342A7F125 /* Shared */,
+			);
+			path = Sources;
+			sourceTree = "<group>";
+		};
+		BFB45B947B98D5DF11397E8D /* App */ = {
+			isa = PBXGroup;
+			children = (
+				23045E2F3A286777E4DD93B7 /* MusclePrecisionApp.swift */,
+				D6450FEF40C99731EC6A2605 /* RootTabView.swift */,
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+		CB3D4E597B9772D2F348A4D1 /* Dashboard */ = {
+			isa = PBXGroup;
+			children = (
+				0261DC18AC6A59E1B84AE045 /* DashboardView.swift */,
+			);
+			path = Dashboard;
+			sourceTree = "<group>";
+		};
+		D77B29397B477530E9A9BCDA /* Features */ = {
+			isa = PBXGroup;
+			children = (
+				CB3D4E597B9772D2F348A4D1 /* Dashboard */,
+				717AF2DE4BC04A8FCBDFCE7C /* Library */,
+				F5F218CDB47953A7D50ACACD /* Planner */,
+			);
+			path = Features;
+			sourceTree = "<group>";
+		};
+		EE79511F355B3E6179D0BF88 /* Tests */ = {
+			isa = PBXGroup;
+			children = (
+				F2BA530DF4BE7064551AE29E /* ExerciseJSONValidationTests.swift */,
+			);
+			path = Tests;
+			sourceTree = "<group>";
+		};
+		F5F218CDB47953A7D50ACACD /* Planner */ = {
+			isa = PBXGroup;
+			children = (
+				31856F0888E21B4079426D42 /* PlannerView.swift */,
+			);
+			path = Planner;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		968F7AAE0930B2DFB7BA63C5 /* MusclePrecisionTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B33B607C0C25F4B9885C9918 /* Build configuration list for PBXNativeTarget "MusclePrecisionTests" */;
+			buildPhases = (
+				74C501CD10D63D7FFE55AE75 /* Sources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				8029270BFE13CCEBD4A1E1C8 /* PBXTargetDependency */,
+			);
+			name = MusclePrecisionTests;
+			packageProductDependencies = (
+			);
+			productName = MusclePrecisionTests;
+			productReference = EAF45B9C1EC4E5A9B641DB4C /* MusclePrecisionTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		F5E4F6077D8431153901367E /* MusclePrecision */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BB9EBB76FE6ECD62C6013CB6 /* Build configuration list for PBXNativeTarget "MusclePrecision" */;
+			buildPhases = (
+				ED3F3E413E908DCBBA911DFC /* Sources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MusclePrecision;
+			packageProductDependencies = (
+			);
+			productName = MusclePrecision;
+			productReference = 5DDAC6AA525191A8A033403B /* MusclePrecision.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		AFD2B75AB79049FF7EDCB2A8 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = YES;
+				LastUpgradeCheck = 1430;
+			};
+			buildConfigurationList = 007B652BF025231B29C0D2DC /* Build configuration list for PBXProject "MusclePrecision" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				Base,
+				en,
+			);
+			mainGroup = 51AB1CF38F62F30AFCC4854D;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				F5E4F6077D8431153901367E /* MusclePrecision */,
+				968F7AAE0930B2DFB7BA63C5 /* MusclePrecisionTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		74C501CD10D63D7FFE55AE75 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A7988C39CD8C5799517AB368 /* ExerciseJSONValidationTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		ED3F3E413E908DCBBA911DFC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A5F569E6A2053D839C0A6B2A /* DashboardView.swift in Sources */,
+				095DC23E935410384A7752FC /* ExerciseDetailView.swift in Sources */,
+				B86E79492A79A82AB008D0E0 /* ExerciseJSONLoader.swift in Sources */,
+				6B3CFB6C36B761F22B769EE8 /* ExerciseModels.swift in Sources */,
+				CAE28ABFB716F185A44BB4C2 /* ExerciseRowView.swift in Sources */,
+				CB5481632747D7EB8BF46929 /* ExerciseSeedData.swift in Sources */,
+				E1F9D4FB80A4406F9C2502CD /* LibraryRootView.swift in Sources */,
+				B804CCA0CB23CF494A7EA8D0 /* LibraryStore.swift in Sources */,
+				9FFBC5EFA504E4CA04FCCB61 /* MusclePrecisionApp.swift in Sources */,
+				40DB54C623D07C3BB78E9A82 /* MuscleTaxonomy.swift in Sources */,
+				A50FC03F0D3A294506197529 /* PlannerView.swift in Sources */,
+				27D78403F55A0920094CD810 /* ReusableViews.swift in Sources */,
+				0CE0A8C2510E5046B93685F1 /* RootTabView.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		8029270BFE13CCEBD4A1E1C8 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = F5E4F6077D8431153901367E /* MusclePrecision */;
+			targetProxy = 7873F4376E28235967DFEE0B /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		07945ED8CE62C982C1DE8B53 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					"DEBUG=1",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				GENERATE_INFOPLIST_FILE = NO;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_BUNDLE_IDENTIFIER = com.kelvinlau.muscleprecision;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 6.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		71E390B50D24142A1E96C8F2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				GENERATE_INFOPLIST_FILE = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MusclePrecision.app/MusclePrecision";
+			};
+			name = Release;
+		};
+		730582B39AF0402F1328BC35 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				GENERATE_INFOPLIST_FILE = NO;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				PRODUCT_BUNDLE_IDENTIFIER = com.kelvinlau.muscleprecision;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 6.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		850F4C070A9E9B34837F79F6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				INFOPLIST_FILE = Resources/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_NAME = MusclePrecision;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		8B334F9F9CEA03D792D970C4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				GENERATE_INFOPLIST_FILE = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MusclePrecision.app/MusclePrecision";
+			};
+			name = Debug;
+		};
+		AE794048F4C544D7EA36A8CA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				INFOPLIST_FILE = Resources/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_NAME = MusclePrecision;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		007B652BF025231B29C0D2DC /* Build configuration list for PBXProject "MusclePrecision" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				07945ED8CE62C982C1DE8B53 /* Debug */,
+				730582B39AF0402F1328BC35 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		B33B607C0C25F4B9885C9918 /* Build configuration list for PBXNativeTarget "MusclePrecisionTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8B334F9F9CEA03D792D970C4 /* Debug */,
+				71E390B50D24142A1E96C8F2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		BB9EBB76FE6ECD62C6013CB6 /* Build configuration list for PBXNativeTarget "MusclePrecision" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				850F4C070A9E9B34837F79F6 /* Debug */,
+				AE794048F4C544D7EA36A8CA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = AFD2B75AB79049FF7EDCB2A8 /* Project object */;
+}

@@ -1,0 +1,46 @@
+name: iOS CI
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  build-and-test:
+    runs-on: macos-latest
+    timeout-minutes: 45
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Xcode Version
+        run: xcodebuild -version
+
+      - name: Validate JSON Exporter Compiles
+        run: |
+          swiftc \
+            "MusclePrecision/Sources/Models/MuscleTaxonomy.swift" \
+            "MusclePrecision/Sources/Models/ExerciseModels.swift" \
+            "MusclePrecision/Sources/Data/ExerciseJSONLoader.swift" \
+            "MusclePrecision/Sources/Data/ExerciseSeedData.swift" \
+            "MusclePrecision/Scripts/export_exercises_json.swift" \
+            -o /tmp/muscle_exporter
+
+          /tmp/muscle_exporter /tmp/exercises.v1.json
+
+          python3 - <<'PY'
+          import json
+
+          with open('/tmp/exercises.v1.json', 'r', encoding='utf-8') as f:
+              data = json.load(f)
+
+          assert data['totalExercises'] == 92, f"Expected totalExercises=92, got {data['totalExercises']}"
+          assert len(data['exercises']) == 92, f"Expected array length=92, got {len(data['exercises'])}"
+          print('JSON exporter validation passed')
+          PY
+
+      - name: Run Unit Tests
+        run: ./MusclePrecision/Scripts/ci_run_tests.sh

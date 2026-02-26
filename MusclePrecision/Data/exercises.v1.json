@@ -1,0 +1,5498 @@
+{
+  "exercises" : [
+    {
+      "commonMistakes" : [
+        "身體後仰借力",
+        "手肘前移過多"
+      ],
+      "cues" : [
+        "手肘固定於身側",
+        "上舉時旋後",
+        "離心控制 2-3 秒"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : false
+      },
+      "key" : "AR_BL01",
+      "l1" : "arms",
+      "l1Title" : "手臂",
+      "l2" : "armsBicepsLong",
+      "l2Title" : "二頭長頭",
+      "muscleWeights" : [
+        {
+          "label" : "二頭長頭",
+          "percentage" : 70
+        },
+        {
+          "label" : "前臂",
+          "percentage" : 20
+        },
+        {
+          "label" : "二頭短頭",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "Incline DB Curl",
+      "nameZH" : "上斜啞鈴彎舉",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "啞鈴"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "槓鈴"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "纜繩"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "彈力帶"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "身體後仰借力",
+        "手肘前移過多"
+      ],
+      "cues" : [
+        "手肘固定於身側",
+        "上舉時旋後",
+        "離心控制 2-3 秒"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : false
+      },
+      "key" : "AR_BL02",
+      "l1" : "arms",
+      "l1Title" : "手臂",
+      "l2" : "armsBicepsLong",
+      "l2Title" : "二頭長頭",
+      "muscleWeights" : [
+        {
+          "label" : "二頭長頭",
+          "percentage" : 70
+        },
+        {
+          "label" : "前臂",
+          "percentage" : 20
+        },
+        {
+          "label" : "二頭短頭",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "Barbell Curl",
+      "nameZH" : "站姿槓鈴彎舉",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "啞鈴"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "槓鈴"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "纜繩"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "彈力帶"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "身體後仰借力",
+        "手肘前移過多"
+      ],
+      "cues" : [
+        "手肘固定於身側",
+        "上舉時旋後",
+        "離心控制 2-3 秒"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : false
+      },
+      "key" : "AR_BL03",
+      "l1" : "arms",
+      "l1Title" : "手臂",
+      "l2" : "armsBicepsLong",
+      "l2Title" : "二頭長頭",
+      "muscleWeights" : [
+        {
+          "label" : "二頭長頭",
+          "percentage" : 70
+        },
+        {
+          "label" : "前臂",
+          "percentage" : 20
+        },
+        {
+          "label" : "二頭短頭",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "Bayesian Cable Curl",
+      "nameZH" : "Bayesian 纜繩彎舉",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "啞鈴"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "槓鈴"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "纜繩"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "彈力帶"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "身體後仰借力",
+        "手肘前移過多"
+      ],
+      "cues" : [
+        "手肘固定於身側",
+        "上舉時旋後",
+        "離心控制 2-3 秒"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : false
+      },
+      "key" : "AR_BL04",
+      "l1" : "arms",
+      "l1Title" : "手臂",
+      "l2" : "armsBicepsLong",
+      "l2Title" : "二頭長頭",
+      "muscleWeights" : [
+        {
+          "label" : "二頭長頭",
+          "percentage" : 70
+        },
+        {
+          "label" : "前臂",
+          "percentage" : 20
+        },
+        {
+          "label" : "二頭短頭",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "Hammer Curl",
+      "nameZH" : "錘式彎舉",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "啞鈴"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "槓鈴"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "纜繩"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "彈力帶"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "放下速度過快",
+        "前臂主導過多"
+      ],
+      "cues" : [
+        "手肘穩定不漂移",
+        "全程維持張力",
+        "頂峰停頓感受擠壓"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : false
+      },
+      "key" : "AR_BS01",
+      "l1" : "arms",
+      "l1Title" : "手臂",
+      "l2" : "armsBicepsShort",
+      "l2Title" : "二頭短頭",
+      "muscleWeights" : [
+        {
+          "label" : "二頭短頭",
+          "percentage" : 70
+        },
+        {
+          "label" : "前臂",
+          "percentage" : 20
+        },
+        {
+          "label" : "二頭長頭",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "Preacher Curl",
+      "nameZH" : "牧師椅彎舉",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "牧師椅"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "啞鈴"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "纜繩"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "彈力帶"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "放下速度過快",
+        "前臂主導過多"
+      ],
+      "cues" : [
+        "手肘穩定不漂移",
+        "全程維持張力",
+        "頂峰停頓感受擠壓"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : false
+      },
+      "key" : "AR_BS02",
+      "l1" : "arms",
+      "l1Title" : "手臂",
+      "l2" : "armsBicepsShort",
+      "l2Title" : "二頭短頭",
+      "muscleWeights" : [
+        {
+          "label" : "二頭短頭",
+          "percentage" : 70
+        },
+        {
+          "label" : "前臂",
+          "percentage" : 20
+        },
+        {
+          "label" : "二頭長頭",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "Concentration Curl",
+      "nameZH" : "集中彎舉",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "牧師椅"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "啞鈴"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "纜繩"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "彈力帶"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "放下速度過快",
+        "前臂主導過多"
+      ],
+      "cues" : [
+        "手肘穩定不漂移",
+        "全程維持張力",
+        "頂峰停頓感受擠壓"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : false
+      },
+      "key" : "AR_BS03",
+      "l1" : "arms",
+      "l1Title" : "手臂",
+      "l2" : "armsBicepsShort",
+      "l2Title" : "二頭短頭",
+      "muscleWeights" : [
+        {
+          "label" : "二頭短頭",
+          "percentage" : 70
+        },
+        {
+          "label" : "前臂",
+          "percentage" : 20
+        },
+        {
+          "label" : "二頭長頭",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "High Cable Curl",
+      "nameZH" : "高位纜繩彎舉",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "牧師椅"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "啞鈴"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "纜繩"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "彈力帶"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "放下速度過快",
+        "前臂主導過多"
+      ],
+      "cues" : [
+        "手肘穩定不漂移",
+        "全程維持張力",
+        "頂峰停頓感受擠壓"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : false
+      },
+      "key" : "AR_BS04",
+      "l1" : "arms",
+      "l1Title" : "手臂",
+      "l2" : "armsBicepsShort",
+      "l2Title" : "二頭短頭",
+      "muscleWeights" : [
+        {
+          "label" : "二頭短頭",
+          "percentage" : 70
+        },
+        {
+          "label" : "前臂",
+          "percentage" : 20
+        },
+        {
+          "label" : "二頭長頭",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "Reverse Curl",
+      "nameZH" : "反手彎舉",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "牧師椅"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "啞鈴"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "纜繩"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "彈力帶"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "手肘外開",
+        "肩關節過度前傾"
+      ],
+      "cues" : [
+        "手肘朝前固定",
+        "完全伸肘但不鎖死",
+        "避免肩膀代償"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : true
+      },
+      "key" : "AR_TL01",
+      "l1" : "arms",
+      "l1Title" : "手臂",
+      "l2" : "armsTricepsLong",
+      "l2Title" : "三頭長頭",
+      "muscleWeights" : [
+        {
+          "label" : "三頭長頭",
+          "percentage" : 70
+        },
+        {
+          "label" : "三頭外側",
+          "percentage" : 20
+        },
+        {
+          "label" : "三頭內側",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "DB Overhead Triceps Extension",
+      "nameZH" : "過頭臂屈伸（啞鈴）",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "啞鈴"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "纜繩"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "EZ 槓"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "槓鈴"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "手肘外開",
+        "肩關節過度前傾"
+      ],
+      "cues" : [
+        "手肘朝前固定",
+        "完全伸肘但不鎖死",
+        "避免肩膀代償"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : false
+      },
+      "key" : "AR_TL02",
+      "l1" : "arms",
+      "l1Title" : "手臂",
+      "l2" : "armsTricepsLong",
+      "l2Title" : "三頭長頭",
+      "muscleWeights" : [
+        {
+          "label" : "三頭長頭",
+          "percentage" : 70
+        },
+        {
+          "label" : "三頭外側",
+          "percentage" : 20
+        },
+        {
+          "label" : "三頭內側",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "Cable Overhead Triceps Extension",
+      "nameZH" : "過頭臂屈伸（纜繩）",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "啞鈴"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "纜繩"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "EZ 槓"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "槓鈴"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "手肘外開",
+        "肩關節過度前傾"
+      ],
+      "cues" : [
+        "手肘朝前固定",
+        "完全伸肘但不鎖死",
+        "避免肩膀代償"
+      ],
+      "flags" : {
+        "beginnerFriendly" : false,
+        "highSkillRisk" : true
+      },
+      "key" : "AR_TL03",
+      "l1" : "arms",
+      "l1Title" : "手臂",
+      "l2" : "armsTricepsLong",
+      "l2Title" : "三頭長頭",
+      "muscleWeights" : [
+        {
+          "label" : "三頭長頭",
+          "percentage" : 70
+        },
+        {
+          "label" : "三頭外側",
+          "percentage" : 20
+        },
+        {
+          "label" : "三頭內側",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "Lying Triceps Extension (Skull Crusher)",
+      "nameZH" : "仰臥臂屈伸",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "啞鈴"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "纜繩"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "EZ 槓"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "槓鈴"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "手肘外開",
+        "肩關節過度前傾"
+      ],
+      "cues" : [
+        "手肘朝前固定",
+        "完全伸肘但不鎖死",
+        "避免肩膀代償"
+      ],
+      "flags" : {
+        "beginnerFriendly" : false,
+        "highSkillRisk" : true
+      },
+      "key" : "AR_TL04",
+      "l1" : "arms",
+      "l1Title" : "手臂",
+      "l2" : "armsTricepsLong",
+      "l2Title" : "三頭長頭",
+      "muscleWeights" : [
+        {
+          "label" : "三頭長頭",
+          "percentage" : 70
+        },
+        {
+          "label" : "三頭外側",
+          "percentage" : 20
+        },
+        {
+          "label" : "三頭內側",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "Seated French Press",
+      "nameZH" : "法式推（坐姿）",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "啞鈴"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "纜繩"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "EZ 槓"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "槓鈴"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "身體晃動借力",
+        "手腕彎曲過度"
+      ],
+      "cues" : [
+        "手肘靠近軀幹",
+        "向下推到底",
+        "向心發力避免甩動"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : false
+      },
+      "key" : "AR_TLA01",
+      "l1" : "arms",
+      "l1Title" : "手臂",
+      "l2" : "armsTricepsLateral",
+      "l2Title" : "三頭外側",
+      "muscleWeights" : [
+        {
+          "label" : "三頭外側",
+          "percentage" : 70
+        },
+        {
+          "label" : "三頭長頭",
+          "percentage" : 20
+        },
+        {
+          "label" : "三頭內側",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "Cable Triceps Pushdown",
+      "nameZH" : "纜繩下壓",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "纜繩"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "雙槓"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "啞鈴"
+        },
+        {
+          "environment" : "H*",
+          "environmentTitle" : "Home-possible (rack)",
+          "name" : "窄握槓鈴"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "身體晃動借力",
+        "手腕彎曲過度"
+      ],
+      "cues" : [
+        "手肘靠近軀幹",
+        "向下推到底",
+        "向心發力避免甩動"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : true
+      },
+      "key" : "AR_TLA02",
+      "l1" : "arms",
+      "l1Title" : "手臂",
+      "l2" : "armsTricepsLateral",
+      "l2Title" : "三頭外側",
+      "muscleWeights" : [
+        {
+          "label" : "三頭外側",
+          "percentage" : 70
+        },
+        {
+          "label" : "三頭長頭",
+          "percentage" : 20
+        },
+        {
+          "label" : "三頭內側",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "Close-grip Bench Press",
+      "nameZH" : "窄握臥推",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "纜繩"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "雙槓"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "啞鈴"
+        },
+        {
+          "environment" : "H*",
+          "environmentTitle" : "Home-possible (rack)",
+          "name" : "窄握槓鈴"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "身體晃動借力",
+        "手腕彎曲過度"
+      ],
+      "cues" : [
+        "手肘靠近軀幹",
+        "向下推到底",
+        "向心發力避免甩動"
+      ],
+      "flags" : {
+        "beginnerFriendly" : false,
+        "highSkillRisk" : true
+      },
+      "key" : "AR_TLA03",
+      "l1" : "arms",
+      "l1Title" : "手臂",
+      "l2" : "armsTricepsLateral",
+      "l2Title" : "三頭外側",
+      "muscleWeights" : [
+        {
+          "label" : "三頭外側",
+          "percentage" : 70
+        },
+        {
+          "label" : "三頭長頭",
+          "percentage" : 20
+        },
+        {
+          "label" : "三頭內側",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "Triceps Dips",
+      "nameZH" : "三頭雙槓下壓",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "纜繩"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "雙槓"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "啞鈴"
+        },
+        {
+          "environment" : "H*",
+          "environmentTitle" : "Home-possible (rack)",
+          "name" : "窄握槓鈴"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "身體晃動借力",
+        "手腕彎曲過度"
+      ],
+      "cues" : [
+        "手肘靠近軀幹",
+        "向下推到底",
+        "向心發力避免甩動"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : false
+      },
+      "key" : "AR_TLA04",
+      "l1" : "arms",
+      "l1Title" : "手臂",
+      "l2" : "armsTricepsLateral",
+      "l2Title" : "三頭外側",
+      "muscleWeights" : [
+        {
+          "label" : "三頭外側",
+          "percentage" : 70
+        },
+        {
+          "label" : "三頭長頭",
+          "percentage" : 20
+        },
+        {
+          "label" : "三頭內側",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "Triceps Kickback",
+      "nameZH" : "三頭後踢",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "纜繩"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "雙槓"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "啞鈴"
+        },
+        {
+          "environment" : "H*",
+          "environmentTitle" : "Home-possible (rack)",
+          "name" : "窄握槓鈴"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "肩膀前頂",
+        "上臂移動過大"
+      ],
+      "cues" : [
+        "手肘固定，前臂轉動自然",
+        "動作末端完整伸展",
+        "控制回程"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : false
+      },
+      "key" : "AR_TM01",
+      "l1" : "arms",
+      "l1Title" : "手臂",
+      "l2" : "armsTricepsMedial",
+      "l2Title" : "三頭內側",
+      "muscleWeights" : [
+        {
+          "label" : "三頭內側",
+          "percentage" : 70
+        },
+        {
+          "label" : "三頭外側",
+          "percentage" : 20
+        },
+        {
+          "label" : "三頭長頭",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "Reverse-grip Pushdown",
+      "nameZH" : "反手纜繩下壓",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "纜繩"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "自重"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "啞鈴"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "彈力帶"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "肩膀前頂",
+        "上臂移動過大"
+      ],
+      "cues" : [
+        "手肘固定，前臂轉動自然",
+        "動作末端完整伸展",
+        "控制回程"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : true
+      },
+      "key" : "AR_TM02",
+      "l1" : "arms",
+      "l1Title" : "手臂",
+      "l2" : "armsTricepsMedial",
+      "l2Title" : "三頭內側",
+      "muscleWeights" : [
+        {
+          "label" : "三頭內側",
+          "percentage" : 70
+        },
+        {
+          "label" : "三頭外側",
+          "percentage" : 20
+        },
+        {
+          "label" : "三頭長頭",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "Diamond Push-up",
+      "nameZH" : "鑽石掌上壓",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "纜繩"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "自重"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "啞鈴"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "彈力帶"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "肩膀前頂",
+        "上臂移動過大"
+      ],
+      "cues" : [
+        "手肘固定，前臂轉動自然",
+        "動作末端完整伸展",
+        "控制回程"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : false
+      },
+      "key" : "AR_TM03",
+      "l1" : "arms",
+      "l1Title" : "手臂",
+      "l2" : "armsTricepsMedial",
+      "l2Title" : "三頭內側",
+      "muscleWeights" : [
+        {
+          "label" : "三頭內側",
+          "percentage" : 70
+        },
+        {
+          "label" : "三頭外側",
+          "percentage" : 20
+        },
+        {
+          "label" : "三頭長頭",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "Single-arm Pushdown (Lockout)",
+      "nameZH" : "單臂纜繩下壓（鎖死）",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "纜繩"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "自重"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "啞鈴"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "彈力帶"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "肩膀前頂",
+        "上臂移動過大"
+      ],
+      "cues" : [
+        "手肘固定，前臂轉動自然",
+        "動作末端完整伸展",
+        "控制回程"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : false
+      },
+      "key" : "AR_TM04",
+      "l1" : "arms",
+      "l1Title" : "手臂",
+      "l2" : "armsTricepsMedial",
+      "l2Title" : "三頭內側",
+      "muscleWeights" : [
+        {
+          "label" : "三頭內側",
+          "percentage" : 70
+        },
+        {
+          "label" : "三頭外側",
+          "percentage" : 20
+        },
+        {
+          "label" : "三頭長頭",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "Rope Pushdown (Full Extension)",
+      "nameZH" : "繩索下壓（全伸展）",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "纜繩"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "自重"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "啞鈴"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "彈力帶"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "用手臂硬拉",
+        "下背過度拱起"
+      ],
+      "cues" : [
+        "先沉肩再拉",
+        "手肘向髖部方向帶",
+        "胸口打開避免圓肩"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : false
+      },
+      "key" : "BK_LA01",
+      "l1" : "back",
+      "l1Title" : "背",
+      "l2" : "backLats",
+      "l2Title" : "闊背",
+      "muscleWeights" : [
+        {
+          "label" : "闊背",
+          "percentage" : 70
+        },
+        {
+          "label" : "二頭長頭",
+          "percentage" : 20
+        },
+        {
+          "label" : "中背",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "Seated Lat Pulldown",
+      "nameZH" : "坐姿闊握下拉",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "下拉機"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "高位纜繩"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "引體向上槓"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "彈力帶下拉"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "用手臂硬拉",
+        "下背過度拱起"
+      ],
+      "cues" : [
+        "先沉肩再拉",
+        "手肘向髖部方向帶",
+        "胸口打開避免圓肩"
+      ],
+      "flags" : {
+        "beginnerFriendly" : false,
+        "highSkillRisk" : true
+      },
+      "key" : "BK_LA02",
+      "l1" : "back",
+      "l1Title" : "背",
+      "l2" : "backLats",
+      "l2Title" : "闊背",
+      "muscleWeights" : [
+        {
+          "label" : "闊背",
+          "percentage" : 70
+        },
+        {
+          "label" : "二頭長頭",
+          "percentage" : 20
+        },
+        {
+          "label" : "中背",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "Pull-up",
+      "nameZH" : "引體向上",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "下拉機"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "高位纜繩"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "引體向上槓"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "彈力帶下拉"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "用手臂硬拉",
+        "下背過度拱起"
+      ],
+      "cues" : [
+        "先沉肩再拉",
+        "手肘向髖部方向帶",
+        "胸口打開避免圓肩"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : false
+      },
+      "key" : "BK_LA03",
+      "l1" : "back",
+      "l1Title" : "背",
+      "l2" : "backLats",
+      "l2Title" : "闊背",
+      "muscleWeights" : [
+        {
+          "label" : "闊背",
+          "percentage" : 70
+        },
+        {
+          "label" : "二頭長頭",
+          "percentage" : 20
+        },
+        {
+          "label" : "中背",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "One-arm Row (Lat Bias)",
+      "nameZH" : "單手划船（闊背偏向）",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "下拉機"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "高位纜繩"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "引體向上槓"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "彈力帶下拉"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "用手臂硬拉",
+        "下背過度拱起"
+      ],
+      "cues" : [
+        "先沉肩再拉",
+        "手肘向髖部方向帶",
+        "胸口打開避免圓肩"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : false
+      },
+      "key" : "BK_LA04",
+      "l1" : "back",
+      "l1Title" : "背",
+      "l2" : "backLats",
+      "l2Title" : "闊背",
+      "muscleWeights" : [
+        {
+          "label" : "闊背",
+          "percentage" : 70
+        },
+        {
+          "label" : "二頭長頭",
+          "percentage" : 20
+        },
+        {
+          "label" : "中背",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "Straight-arm Pulldown",
+      "nameZH" : "直臂下拉",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "下拉機"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "高位纜繩"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "引體向上槓"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "彈力帶下拉"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "圓背拉起",
+        "起拉時先抬臀"
+      ],
+      "cues" : [
+        "維持髖 hinge",
+        "核心 brace，背部中立",
+        "腳掌穩定發力"
+      ],
+      "flags" : {
+        "beginnerFriendly" : false,
+        "highSkillRisk" : true
+      },
+      "key" : "BK_LB01",
+      "l1" : "back",
+      "l1Title" : "背",
+      "l2" : "backLower",
+      "l2Title" : "下背",
+      "muscleWeights" : [
+        {
+          "label" : "下背",
+          "percentage" : 60
+        },
+        {
+          "label" : "臀",
+          "percentage" : 25
+        },
+        {
+          "label" : "腿後",
+          "percentage" : 15
+        }
+      ],
+      "nameEN" : "Conventional Deadlift",
+      "nameZH" : "硬拉（傳統）",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "H*",
+          "environmentTitle" : "Home-possible (rack)",
+          "name" : "槓鈴"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "陷阱槓"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "45° 背伸機"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "啞鈴"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "圓背拉起",
+        "起拉時先抬臀"
+      ],
+      "cues" : [
+        "維持髖 hinge",
+        "核心 brace，背部中立",
+        "腳掌穩定發力"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : true
+      },
+      "key" : "BK_LB02",
+      "l1" : "back",
+      "l1Title" : "背",
+      "l2" : "backLower",
+      "l2Title" : "下背",
+      "muscleWeights" : [
+        {
+          "label" : "下背",
+          "percentage" : 60
+        },
+        {
+          "label" : "臀",
+          "percentage" : 25
+        },
+        {
+          "label" : "腿後",
+          "percentage" : 15
+        }
+      ],
+      "nameEN" : "Romanian Deadlift (RDL)",
+      "nameZH" : "羅馬尼亞硬拉",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "H*",
+          "environmentTitle" : "Home-possible (rack)",
+          "name" : "槓鈴"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "陷阱槓"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "45° 背伸機"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "啞鈴"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "圓背拉起",
+        "起拉時先抬臀"
+      ],
+      "cues" : [
+        "維持髖 hinge",
+        "核心 brace，背部中立",
+        "腳掌穩定發力"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : false
+      },
+      "key" : "BK_LB03",
+      "l1" : "back",
+      "l1Title" : "背",
+      "l2" : "backLower",
+      "l2Title" : "下背",
+      "muscleWeights" : [
+        {
+          "label" : "下背",
+          "percentage" : 60
+        },
+        {
+          "label" : "臀",
+          "percentage" : 25
+        },
+        {
+          "label" : "腿後",
+          "percentage" : 15
+        }
+      ],
+      "nameEN" : "Back Extension",
+      "nameZH" : "背伸展（45°）",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "H*",
+          "environmentTitle" : "Home-possible (rack)",
+          "name" : "槓鈴"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "陷阱槓"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "45° 背伸機"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "啞鈴"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "圓背拉起",
+        "起拉時先抬臀"
+      ],
+      "cues" : [
+        "維持髖 hinge",
+        "核心 brace，背部中立",
+        "腳掌穩定發力"
+      ],
+      "flags" : {
+        "beginnerFriendly" : false,
+        "highSkillRisk" : true
+      },
+      "key" : "BK_LB04",
+      "l1" : "back",
+      "l1Title" : "背",
+      "l2" : "backLower",
+      "l2Title" : "下背",
+      "muscleWeights" : [
+        {
+          "label" : "下背",
+          "percentage" : 60
+        },
+        {
+          "label" : "臀",
+          "percentage" : 25
+        },
+        {
+          "label" : "腿後",
+          "percentage" : 15
+        }
+      ],
+      "nameEN" : "Good Morning",
+      "nameZH" : "槓鈴早安",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "H*",
+          "environmentTitle" : "Home-possible (rack)",
+          "name" : "槓鈴"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "陷阱槓"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "45° 背伸機"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "啞鈴"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "身體大幅後仰甩動",
+        "聳肩代償"
+      ],
+      "cues" : [
+        "肩胛先收後拉",
+        "脊柱中立",
+        "頂峰停頓 1 秒"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : false
+      },
+      "key" : "BK_MB01",
+      "l1" : "back",
+      "l1Title" : "背",
+      "l2" : "backMiddle",
+      "l2Title" : "中背",
+      "muscleWeights" : [
+        {
+          "label" : "中背",
+          "percentage" : 70
+        },
+        {
+          "label" : "闊背",
+          "percentage" : 20
+        },
+        {
+          "label" : "二頭短頭",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "Seated Cable Row",
+      "nameZH" : "坐姿纜繩划船",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "坐姿划船機"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "纜繩"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "啞鈴"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "彈力帶"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "身體大幅後仰甩動",
+        "聳肩代償"
+      ],
+      "cues" : [
+        "肩胛先收後拉",
+        "脊柱中立",
+        "頂峰停頓 1 秒"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : false
+      },
+      "key" : "BK_MB02",
+      "l1" : "back",
+      "l1Title" : "背",
+      "l2" : "backMiddle",
+      "l2Title" : "中背",
+      "muscleWeights" : [
+        {
+          "label" : "中背",
+          "percentage" : 70
+        },
+        {
+          "label" : "闊背",
+          "percentage" : 20
+        },
+        {
+          "label" : "二頭短頭",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "Chest-supported Row",
+      "nameZH" : "胸托划船（機械/凳）",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "坐姿划船機"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "纜繩"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "啞鈴"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "彈力帶"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "身體大幅後仰甩動",
+        "聳肩代償"
+      ],
+      "cues" : [
+        "肩胛先收後拉",
+        "脊柱中立",
+        "頂峰停頓 1 秒"
+      ],
+      "flags" : {
+        "beginnerFriendly" : false,
+        "highSkillRisk" : true
+      },
+      "key" : "BK_MB03",
+      "l1" : "back",
+      "l1Title" : "背",
+      "l2" : "backMiddle",
+      "l2Title" : "中背",
+      "muscleWeights" : [
+        {
+          "label" : "中背",
+          "percentage" : 70
+        },
+        {
+          "label" : "闊背",
+          "percentage" : 20
+        },
+        {
+          "label" : "二頭短頭",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "Barbell Bent-over Row",
+      "nameZH" : "俯身槓鈴划船",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "坐姿划船機"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "纜繩"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "啞鈴"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "彈力帶"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "身體大幅後仰甩動",
+        "聳肩代償"
+      ],
+      "cues" : [
+        "肩胛先收後拉",
+        "脊柱中立",
+        "頂峰停頓 1 秒"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : false
+      },
+      "key" : "BK_MB04",
+      "l1" : "back",
+      "l1Title" : "背",
+      "l2" : "backMiddle",
+      "l2Title" : "中背",
+      "muscleWeights" : [
+        {
+          "label" : "中背",
+          "percentage" : 70
+        },
+        {
+          "label" : "闊背",
+          "percentage" : 20
+        },
+        {
+          "label" : "二頭短頭",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "Seated High Back Row",
+      "nameZH" : "高位划船（纜繩）",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "坐姿划船機"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "纜繩"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "啞鈴"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "彈力帶"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "聳肩時頭前伸",
+        "借力彈震"
+      ],
+      "cues" : [
+        "頸部放鬆，肩膀向上後收",
+        "頂峰停頓",
+        "下放全程控制"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : false
+      },
+      "key" : "BK_TR01",
+      "l1" : "back",
+      "l1Title" : "背",
+      "l2" : "backTraps",
+      "l2Title" : "斜方",
+      "muscleWeights" : [
+        {
+          "label" : "斜方",
+          "percentage" : 70
+        },
+        {
+          "label" : "後三角",
+          "percentage" : 20
+        },
+        {
+          "label" : "深層核心",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "Barbell Shrug",
+      "nameZH" : "槓鈴聳肩",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "H*",
+          "environmentTitle" : "Home-possible (rack)",
+          "name" : "槓鈴"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "啞鈴"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "壺鈴"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "Smith"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "聳肩時頭前伸",
+        "借力彈震"
+      ],
+      "cues" : [
+        "頸部放鬆，肩膀向上後收",
+        "頂峰停頓",
+        "下放全程控制"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : false
+      },
+      "key" : "BK_TR02",
+      "l1" : "back",
+      "l1Title" : "背",
+      "l2" : "backTraps",
+      "l2Title" : "斜方",
+      "muscleWeights" : [
+        {
+          "label" : "斜方",
+          "percentage" : 70
+        },
+        {
+          "label" : "後三角",
+          "percentage" : 20
+        },
+        {
+          "label" : "深層核心",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "DB Shrug",
+      "nameZH" : "啞鈴聳肩",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "H*",
+          "environmentTitle" : "Home-possible (rack)",
+          "name" : "槓鈴"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "啞鈴"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "壺鈴"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "Smith"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "聳肩時頭前伸",
+        "借力彈震"
+      ],
+      "cues" : [
+        "頸部放鬆，肩膀向上後收",
+        "頂峰停頓",
+        "下放全程控制"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : false
+      },
+      "key" : "BK_TR03",
+      "l1" : "back",
+      "l1Title" : "背",
+      "l2" : "backTraps",
+      "l2Title" : "斜方",
+      "muscleWeights" : [
+        {
+          "label" : "斜方",
+          "percentage" : 70
+        },
+        {
+          "label" : "後三角",
+          "percentage" : 20
+        },
+        {
+          "label" : "深層核心",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "Farmer's Carry",
+      "nameZH" : "農夫行走",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "H*",
+          "environmentTitle" : "Home-possible (rack)",
+          "name" : "槓鈴"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "啞鈴"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "壺鈴"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "Smith"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "聳肩時頭前伸",
+        "借力彈震"
+      ],
+      "cues" : [
+        "頸部放鬆，肩膀向上後收",
+        "頂峰停頓",
+        "下放全程控制"
+      ],
+      "flags" : {
+        "beginnerFriendly" : false,
+        "highSkillRisk" : true
+      },
+      "key" : "BK_TR04",
+      "l1" : "back",
+      "l1Title" : "背",
+      "l2" : "backTraps",
+      "l2Title" : "斜方",
+      "muscleWeights" : [
+        {
+          "label" : "斜方",
+          "percentage" : 70
+        },
+        {
+          "label" : "後三角",
+          "percentage" : 20
+        },
+        {
+          "label" : "深層核心",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "Rack Pull",
+      "nameZH" : "架上半程硬拉",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "H*",
+          "environmentTitle" : "Home-possible (rack)",
+          "name" : "槓鈴"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "啞鈴"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "壺鈴"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "Smith"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "肩膀聳起",
+        "下放過深造成前肩不適"
+      ],
+      "cues" : [
+        "軀幹略前傾以吃到下胸",
+        "肩胛保持穩定",
+        "維持可控活動範圍"
+      ],
+      "flags" : {
+        "beginnerFriendly" : false,
+        "highSkillRisk" : true
+      },
+      "key" : "CH_L01",
+      "l1" : "chest",
+      "l1Title" : "胸",
+      "l2" : "chestLower",
+      "l2Title" : "下胸",
+      "muscleWeights" : [
+        {
+          "label" : "下胸",
+          "percentage" : 70
+        },
+        {
+          "label" : "三頭",
+          "percentage" : 20
+        },
+        {
+          "label" : "前三角",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "Chest Dips",
+      "nameZH" : "雙槓下壓（胸）",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "雙槓"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "下斜槓鈴"
+        },
+        {
+          "environment" : "H*",
+          "environmentTitle" : "Home-possible (rack)",
+          "name" : "下斜啞鈴"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "纜繩"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "下斜胸推機"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "肩膀聳起",
+        "下放過深造成前肩不適"
+      ],
+      "cues" : [
+        "軀幹略前傾以吃到下胸",
+        "肩胛保持穩定",
+        "維持可控活動範圍"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : true
+      },
+      "key" : "CH_L02",
+      "l1" : "chest",
+      "l1Title" : "胸",
+      "l2" : "chestLower",
+      "l2Title" : "下胸",
+      "muscleWeights" : [
+        {
+          "label" : "下胸",
+          "percentage" : 70
+        },
+        {
+          "label" : "三頭",
+          "percentage" : 20
+        },
+        {
+          "label" : "前三角",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "Decline Press",
+      "nameZH" : "下斜臥推",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "雙槓"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "下斜槓鈴"
+        },
+        {
+          "environment" : "H*",
+          "environmentTitle" : "Home-possible (rack)",
+          "name" : "下斜啞鈴"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "纜繩"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "下斜胸推機"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "肩膀聳起",
+        "下放過深造成前肩不適"
+      ],
+      "cues" : [
+        "軀幹略前傾以吃到下胸",
+        "肩胛保持穩定",
+        "維持可控活動範圍"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : false
+      },
+      "key" : "CH_L03",
+      "l1" : "chest",
+      "l1Title" : "胸",
+      "l2" : "chestLower",
+      "l2Title" : "下胸",
+      "muscleWeights" : [
+        {
+          "label" : "下胸",
+          "percentage" : 70
+        },
+        {
+          "label" : "三頭",
+          "percentage" : 20
+        },
+        {
+          "label" : "前三角",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "High-to-Low Cable Fly",
+      "nameZH" : "高到低飛鳥（纜繩）",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "雙槓"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "下斜槓鈴"
+        },
+        {
+          "environment" : "H*",
+          "environmentTitle" : "Home-possible (rack)",
+          "name" : "下斜啞鈴"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "纜繩"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "下斜胸推機"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "肩膀聳起",
+        "下放過深造成前肩不適"
+      ],
+      "cues" : [
+        "軀幹略前傾以吃到下胸",
+        "肩胛保持穩定",
+        "維持可控活動範圍"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : false
+      },
+      "key" : "CH_L04",
+      "l1" : "chest",
+      "l1Title" : "胸",
+      "l2" : "chestLower",
+      "l2Title" : "下胸",
+      "muscleWeights" : [
+        {
+          "label" : "下胸",
+          "percentage" : 70
+        },
+        {
+          "label" : "三頭",
+          "percentage" : 20
+        },
+        {
+          "label" : "前三角",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "Decline Chest Press Machine",
+      "nameZH" : "下斜胸推機",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "雙槓"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "下斜槓鈴"
+        },
+        {
+          "environment" : "H*",
+          "environmentTitle" : "Home-possible (rack)",
+          "name" : "下斜啞鈴"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "纜繩"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "下斜胸推機"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "手腕後折",
+        "屁股離凳造成下背壓力"
+      ],
+      "cues" : [
+        "落槓位置對齊中胸",
+        "全程肩胛穩定",
+        "離心放慢，向心爆發"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : true
+      },
+      "key" : "CH_M01",
+      "l1" : "chest",
+      "l1Title" : "胸",
+      "l2" : "chestMiddle",
+      "l2Title" : "中胸",
+      "muscleWeights" : [
+        {
+          "label" : "中胸",
+          "percentage" : 60
+        },
+        {
+          "label" : "前三角",
+          "percentage" : 25
+        },
+        {
+          "label" : "三頭",
+          "percentage" : 15
+        }
+      ],
+      "nameEN" : "Barbell Bench Press",
+      "nameZH" : "平板臥推（槓鈴）",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "H*",
+          "environmentTitle" : "Home-possible (rack)",
+          "name" : "槓鈴"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "啞鈴"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "胸推機"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "Smith"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "掌上壓"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "手腕後折",
+        "屁股離凳造成下背壓力"
+      ],
+      "cues" : [
+        "落槓位置對齊中胸",
+        "全程肩胛穩定",
+        "離心放慢，向心爆發"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : false
+      },
+      "key" : "CH_M02",
+      "l1" : "chest",
+      "l1Title" : "胸",
+      "l2" : "chestMiddle",
+      "l2Title" : "中胸",
+      "muscleWeights" : [
+        {
+          "label" : "中胸",
+          "percentage" : 60
+        },
+        {
+          "label" : "前三角",
+          "percentage" : 25
+        },
+        {
+          "label" : "三頭",
+          "percentage" : 15
+        }
+      ],
+      "nameEN" : "DB Bench Press",
+      "nameZH" : "平板臥推（啞鈴）",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "H*",
+          "environmentTitle" : "Home-possible (rack)",
+          "name" : "槓鈴"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "啞鈴"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "胸推機"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "Smith"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "掌上壓"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "手腕後折",
+        "屁股離凳造成下背壓力"
+      ],
+      "cues" : [
+        "落槓位置對齊中胸",
+        "全程肩胛穩定",
+        "離心放慢，向心爆發"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : false
+      },
+      "key" : "CH_M03",
+      "l1" : "chest",
+      "l1Title" : "胸",
+      "l2" : "chestMiddle",
+      "l2Title" : "中胸",
+      "muscleWeights" : [
+        {
+          "label" : "中胸",
+          "percentage" : 60
+        },
+        {
+          "label" : "前三角",
+          "percentage" : 25
+        },
+        {
+          "label" : "三頭",
+          "percentage" : 15
+        }
+      ],
+      "nameEN" : "Seated Chest Press Machine",
+      "nameZH" : "坐姿胸推（機械）",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "H*",
+          "environmentTitle" : "Home-possible (rack)",
+          "name" : "槓鈴"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "啞鈴"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "胸推機"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "Smith"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "掌上壓"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "手腕後折",
+        "屁股離凳造成下背壓力"
+      ],
+      "cues" : [
+        "落槓位置對齊中胸",
+        "全程肩胛穩定",
+        "離心放慢，向心爆發"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : false
+      },
+      "key" : "CH_M04",
+      "l1" : "chest",
+      "l1Title" : "胸",
+      "l2" : "chestMiddle",
+      "l2Title" : "中胸",
+      "muscleWeights" : [
+        {
+          "label" : "中胸",
+          "percentage" : 60
+        },
+        {
+          "label" : "前三角",
+          "percentage" : 25
+        },
+        {
+          "label" : "三頭",
+          "percentage" : 15
+        }
+      ],
+      "nameEN" : "Pec Deck Fly",
+      "nameZH" : "蝴蝶機夾胸",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "H*",
+          "environmentTitle" : "Home-possible (rack)",
+          "name" : "槓鈴"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "啞鈴"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "胸推機"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "Smith"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "掌上壓"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "手肘過度外張",
+        "借力彈震，失去張力"
+      ],
+      "cues" : [
+        "肩胛後收下沉",
+        "核心收緊，避免腰椎代償",
+        "推到頂端仍維持控制"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : true
+      },
+      "key" : "CH_U01",
+      "l1" : "chest",
+      "l1Title" : "胸",
+      "l2" : "chestUpper",
+      "l2Title" : "上胸",
+      "muscleWeights" : [
+        {
+          "label" : "上胸",
+          "percentage" : 70
+        },
+        {
+          "label" : "前三角",
+          "percentage" : 20
+        },
+        {
+          "label" : "三頭",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "Incline DB Press",
+      "nameZH" : "上斜臥推（啞鈴）",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "啞鈴"
+        },
+        {
+          "environment" : "H*",
+          "environmentTitle" : "Home-possible (rack)",
+          "name" : "槓鈴"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "Smith"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "上斜胸推機"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "纜繩"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "彈力帶"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "手肘過度外張",
+        "借力彈震，失去張力"
+      ],
+      "cues" : [
+        "肩胛後收下沉",
+        "核心收緊，避免腰椎代償",
+        "推到頂端仍維持控制"
+      ],
+      "flags" : {
+        "beginnerFriendly" : false,
+        "highSkillRisk" : true
+      },
+      "key" : "CH_U02",
+      "l1" : "chest",
+      "l1Title" : "胸",
+      "l2" : "chestUpper",
+      "l2Title" : "上胸",
+      "muscleWeights" : [
+        {
+          "label" : "上胸",
+          "percentage" : 70
+        },
+        {
+          "label" : "前三角",
+          "percentage" : 20
+        },
+        {
+          "label" : "三頭",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "Incline Barbell Bench Press",
+      "nameZH" : "上斜臥推（槓鈴）",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "啞鈴"
+        },
+        {
+          "environment" : "H*",
+          "environmentTitle" : "Home-possible (rack)",
+          "name" : "槓鈴"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "Smith"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "上斜胸推機"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "纜繩"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "彈力帶"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "手肘過度外張",
+        "借力彈震，失去張力"
+      ],
+      "cues" : [
+        "肩胛後收下沉",
+        "核心收緊，避免腰椎代償",
+        "推到頂端仍維持控制"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : false
+      },
+      "key" : "CH_U03",
+      "l1" : "chest",
+      "l1Title" : "胸",
+      "l2" : "chestUpper",
+      "l2Title" : "上胸",
+      "muscleWeights" : [
+        {
+          "label" : "上胸",
+          "percentage" : 70
+        },
+        {
+          "label" : "前三角",
+          "percentage" : 20
+        },
+        {
+          "label" : "三頭",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "Low-to-High Cable Fly",
+      "nameZH" : "低到高飛鳥（纜繩）",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "啞鈴"
+        },
+        {
+          "environment" : "H*",
+          "environmentTitle" : "Home-possible (rack)",
+          "name" : "槓鈴"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "Smith"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "上斜胸推機"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "纜繩"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "彈力帶"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "手肘過度外張",
+        "借力彈震，失去張力"
+      ],
+      "cues" : [
+        "肩胛後收下沉",
+        "核心收緊，避免腰椎代償",
+        "推到頂端仍維持控制"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : false
+      },
+      "key" : "CH_U04",
+      "l1" : "chest",
+      "l1Title" : "胸",
+      "l2" : "chestUpper",
+      "l2Title" : "上胸",
+      "muscleWeights" : [
+        {
+          "label" : "上胸",
+          "percentage" : 70
+        },
+        {
+          "label" : "前三角",
+          "percentage" : 20
+        },
+        {
+          "label" : "三頭",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "Incline Chest Press Machine",
+      "nameZH" : "上斜胸推機",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "啞鈴"
+        },
+        {
+          "environment" : "H*",
+          "environmentTitle" : "Home-possible (rack)",
+          "name" : "槓鈴"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "Smith"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "上斜胸推機"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "纜繩"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "彈力帶"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "用髖屈肌甩腿",
+        "下背拱起"
+      ],
+      "cues" : [
+        "骨盆後傾先啟動",
+        "避免擺盪",
+        "離心慢放"
+      ],
+      "flags" : {
+        "beginnerFriendly" : false,
+        "highSkillRisk" : true
+      },
+      "key" : "CR_LA01",
+      "l1" : "core",
+      "l1Title" : "核心",
+      "l2" : "coreLowerAbs",
+      "l2Title" : "下腹",
+      "muscleWeights" : [
+        {
+          "label" : "下腹",
+          "percentage" : 70
+        },
+        {
+          "label" : "上腹",
+          "percentage" : 20
+        },
+        {
+          "label" : "髖屈肌",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "Hanging Leg Raise",
+      "nameZH" : "懸垂抬腿",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "自重"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "懸垂架"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "彈力帶"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "用髖屈肌甩腿",
+        "下背拱起"
+      ],
+      "cues" : [
+        "骨盆後傾先啟動",
+        "避免擺盪",
+        "離心慢放"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : true
+      },
+      "key" : "CR_LA02",
+      "l1" : "core",
+      "l1Title" : "核心",
+      "l2" : "coreLowerAbs",
+      "l2Title" : "下腹",
+      "muscleWeights" : [
+        {
+          "label" : "下腹",
+          "percentage" : 70
+        },
+        {
+          "label" : "上腹",
+          "percentage" : 20
+        },
+        {
+          "label" : "髖屈肌",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "Hanging Knee Raise",
+      "nameZH" : "懸垂屈膝抬腿",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "自重"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "懸垂架"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "彈力帶"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "用髖屈肌甩腿",
+        "下背拱起"
+      ],
+      "cues" : [
+        "骨盆後傾先啟動",
+        "避免擺盪",
+        "離心慢放"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : false
+      },
+      "key" : "CR_LA03",
+      "l1" : "core",
+      "l1Title" : "核心",
+      "l2" : "coreLowerAbs",
+      "l2Title" : "下腹",
+      "muscleWeights" : [
+        {
+          "label" : "下腹",
+          "percentage" : 70
+        },
+        {
+          "label" : "上腹",
+          "percentage" : 20
+        },
+        {
+          "label" : "髖屈肌",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "Reverse Crunch",
+      "nameZH" : "反向卷腹",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "自重"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "懸垂架"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "彈力帶"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "用髖屈肌甩腿",
+        "下背拱起"
+      ],
+      "cues" : [
+        "骨盆後傾先啟動",
+        "避免擺盪",
+        "離心慢放"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : true
+      },
+      "key" : "CR_LA04",
+      "l1" : "core",
+      "l1Title" : "核心",
+      "l2" : "coreLowerAbs",
+      "l2Title" : "下腹",
+      "muscleWeights" : [
+        {
+          "label" : "下腹",
+          "percentage" : 70
+        },
+        {
+          "label" : "上腹",
+          "percentage" : 20
+        },
+        {
+          "label" : "髖屈肌",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "Lying Leg Raise",
+      "nameZH" : "仰臥抬腿",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "自重"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "懸垂架"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "彈力帶"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "腰椎過度旋轉",
+        "慣性甩動"
+      ],
+      "cues" : [
+        "先穩定骨盆再旋轉",
+        "軀幹長軸延伸",
+        "控制節奏"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : false
+      },
+      "key" : "CR_OB01",
+      "l1" : "core",
+      "l1Title" : "核心",
+      "l2" : "coreObliques",
+      "l2Title" : "腹斜",
+      "muscleWeights" : [
+        {
+          "label" : "腹斜",
+          "percentage" : 70
+        },
+        {
+          "label" : "深層核心",
+          "percentage" : 20
+        },
+        {
+          "label" : "上腹",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "Side Plank",
+      "nameZH" : "側平板支撐",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "自重"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "纜繩"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "壺鈴"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "腰椎過度旋轉",
+        "慣性甩動"
+      ],
+      "cues" : [
+        "先穩定骨盆再旋轉",
+        "軀幹長軸延伸",
+        "控制節奏"
+      ],
+      "flags" : {
+        "beginnerFriendly" : false,
+        "highSkillRisk" : true
+      },
+      "key" : "CR_OB02",
+      "l1" : "core",
+      "l1Title" : "核心",
+      "l2" : "coreObliques",
+      "l2Title" : "腹斜",
+      "muscleWeights" : [
+        {
+          "label" : "腹斜",
+          "percentage" : 70
+        },
+        {
+          "label" : "深層核心",
+          "percentage" : 20
+        },
+        {
+          "label" : "上腹",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "Cable Woodchop",
+      "nameZH" : "纜繩劈木",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "自重"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "纜繩"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "壺鈴"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "腰椎過度旋轉",
+        "慣性甩動"
+      ],
+      "cues" : [
+        "先穩定骨盆再旋轉",
+        "軀幹長軸延伸",
+        "控制節奏"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : false
+      },
+      "key" : "CR_OB03",
+      "l1" : "core",
+      "l1Title" : "核心",
+      "l2" : "coreObliques",
+      "l2Title" : "腹斜",
+      "muscleWeights" : [
+        {
+          "label" : "腹斜",
+          "percentage" : 70
+        },
+        {
+          "label" : "深層核心",
+          "percentage" : 20
+        },
+        {
+          "label" : "上腹",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "Russian Twist",
+      "nameZH" : "俄羅斯轉體",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "自重"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "纜繩"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "壺鈴"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "腰椎過度旋轉",
+        "慣性甩動"
+      ],
+      "cues" : [
+        "先穩定骨盆再旋轉",
+        "軀幹長軸延伸",
+        "控制節奏"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : false
+      },
+      "key" : "CR_OB04",
+      "l1" : "core",
+      "l1Title" : "核心",
+      "l2" : "coreObliques",
+      "l2Title" : "腹斜",
+      "muscleWeights" : [
+        {
+          "label" : "腹斜",
+          "percentage" : 70
+        },
+        {
+          "label" : "深層核心",
+          "percentage" : 20
+        },
+        {
+          "label" : "上腹",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "Bicycle Crunch",
+      "nameZH" : "自行車卷腹",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "自重"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "纜繩"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "壺鈴"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "下背塌陷",
+        "呼吸憋住過久"
+      ],
+      "cues" : [
+        "先 brace 再動作",
+        "呼吸與收核心同步",
+        "骨盆中立"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : false
+      },
+      "key" : "CR_TC01",
+      "l1" : "core",
+      "l1Title" : "核心",
+      "l2" : "coreDeep",
+      "l2Title" : "深層核心",
+      "muscleWeights" : [
+        {
+          "label" : "深層核心",
+          "percentage" : 60
+        },
+        {
+          "label" : "上腹",
+          "percentage" : 20
+        },
+        {
+          "label" : "臀",
+          "percentage" : 20
+        }
+      ],
+      "nameEN" : "Front Plank",
+      "nameZH" : "前平板支撐",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "自重"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "纜繩"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "彈力帶"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "TRX"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "下背塌陷",
+        "呼吸憋住過久"
+      ],
+      "cues" : [
+        "先 brace 再動作",
+        "呼吸與收核心同步",
+        "骨盆中立"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : false
+      },
+      "key" : "CR_TC02",
+      "l1" : "core",
+      "l1Title" : "核心",
+      "l2" : "coreDeep",
+      "l2Title" : "深層核心",
+      "muscleWeights" : [
+        {
+          "label" : "深層核心",
+          "percentage" : 60
+        },
+        {
+          "label" : "上腹",
+          "percentage" : 20
+        },
+        {
+          "label" : "臀",
+          "percentage" : 20
+        }
+      ],
+      "nameEN" : "Anti-rotation Press (Pallof)",
+      "nameZH" : "抗旋轉推（Pallof Press）",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "自重"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "纜繩"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "彈力帶"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "TRX"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "下背塌陷",
+        "呼吸憋住過久"
+      ],
+      "cues" : [
+        "先 brace 再動作",
+        "呼吸與收核心同步",
+        "骨盆中立"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : false
+      },
+      "key" : "CR_TC03",
+      "l1" : "core",
+      "l1Title" : "核心",
+      "l2" : "coreDeep",
+      "l2Title" : "深層核心",
+      "muscleWeights" : [
+        {
+          "label" : "深層核心",
+          "percentage" : 60
+        },
+        {
+          "label" : "上腹",
+          "percentage" : 20
+        },
+        {
+          "label" : "臀",
+          "percentage" : 20
+        }
+      ],
+      "nameEN" : "Dead Bug",
+      "nameZH" : "Dead Bug",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "自重"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "纜繩"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "彈力帶"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "TRX"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "下背塌陷",
+        "呼吸憋住過久"
+      ],
+      "cues" : [
+        "先 brace 再動作",
+        "呼吸與收核心同步",
+        "骨盆中立"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : false
+      },
+      "key" : "CR_TC04",
+      "l1" : "core",
+      "l1Title" : "核心",
+      "l2" : "coreDeep",
+      "l2Title" : "深層核心",
+      "muscleWeights" : [
+        {
+          "label" : "深層核心",
+          "percentage" : 60
+        },
+        {
+          "label" : "上腹",
+          "percentage" : 20
+        },
+        {
+          "label" : "臀",
+          "percentage" : 20
+        }
+      ],
+      "nameEN" : "Bird Dog",
+      "nameZH" : "Bird Dog",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "自重"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "纜繩"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "彈力帶"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "TRX"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "拉頸借力",
+        "速度過快失去控制"
+      ],
+      "cues" : [
+        "吐氣收腹發力",
+        "脊柱逐節捲起",
+        "保持骨盆穩定"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : false
+      },
+      "key" : "CR_UA01",
+      "l1" : "core",
+      "l1Title" : "核心",
+      "l2" : "coreUpperAbs",
+      "l2Title" : "上腹",
+      "muscleWeights" : [
+        {
+          "label" : "上腹",
+          "percentage" : 70
+        },
+        {
+          "label" : "下腹",
+          "percentage" : 20
+        },
+        {
+          "label" : "深層核心",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "Crunch",
+      "nameZH" : "仰臥卷腹",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "自重"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "纜繩"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "機械"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "拉頸借力",
+        "速度過快失去控制"
+      ],
+      "cues" : [
+        "吐氣收腹發力",
+        "脊柱逐節捲起",
+        "保持骨盆穩定"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : false
+      },
+      "key" : "CR_UA02",
+      "l1" : "core",
+      "l1Title" : "核心",
+      "l2" : "coreUpperAbs",
+      "l2Title" : "上腹",
+      "muscleWeights" : [
+        {
+          "label" : "上腹",
+          "percentage" : 70
+        },
+        {
+          "label" : "下腹",
+          "percentage" : 20
+        },
+        {
+          "label" : "深層核心",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "Kneeling Cable Crunch",
+      "nameZH" : "跪姿纜繩卷腹",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "自重"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "纜繩"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "機械"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "拉頸借力",
+        "速度過快失去控制"
+      ],
+      "cues" : [
+        "吐氣收腹發力",
+        "脊柱逐節捲起",
+        "保持骨盆穩定"
+      ],
+      "flags" : {
+        "beginnerFriendly" : false,
+        "highSkillRisk" : true
+      },
+      "key" : "CR_UA03",
+      "l1" : "core",
+      "l1Title" : "核心",
+      "l2" : "coreUpperAbs",
+      "l2Title" : "上腹",
+      "muscleWeights" : [
+        {
+          "label" : "上腹",
+          "percentage" : 70
+        },
+        {
+          "label" : "下腹",
+          "percentage" : 20
+        },
+        {
+          "label" : "深層核心",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "Decline Sit-up",
+      "nameZH" : "下斜仰臥起坐",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "自重"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "纜繩"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "機械"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "拉頸借力",
+        "速度過快失去控制"
+      ],
+      "cues" : [
+        "吐氣收腹發力",
+        "脊柱逐節捲起",
+        "保持骨盆穩定"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : false
+      },
+      "key" : "CR_UA04",
+      "l1" : "core",
+      "l1Title" : "核心",
+      "l2" : "coreUpperAbs",
+      "l2Title" : "上腹",
+      "muscleWeights" : [
+        {
+          "label" : "上腹",
+          "percentage" : 70
+        },
+        {
+          "label" : "下腹",
+          "percentage" : 20
+        },
+        {
+          "label" : "深層核心",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "Machine Crunch",
+      "nameZH" : "機械卷腹",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "自重"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "纜繩"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "機械"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "只做半程",
+        "依靠慣性反彈"
+      ],
+      "cues" : [
+        "底部完整拉伸",
+        "頂峰停頓",
+        "控制離心避免彈震"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : false
+      },
+      "key" : "LG_C01",
+      "l1" : "legs",
+      "l1Title" : "腿",
+      "l2" : "legsCalves",
+      "l2Title" : "小腿",
+      "muscleWeights" : [
+        {
+          "label" : "小腿",
+          "percentage" : 80
+        },
+        {
+          "label" : "股四頭",
+          "percentage" : 10
+        },
+        {
+          "label" : "腿後",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "Standing Calf Raise",
+      "nameZH" : "站姿提踵",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "站姿提踵機"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "坐姿提踵機"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "啞鈴"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "自重"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "只做半程",
+        "依靠慣性反彈"
+      ],
+      "cues" : [
+        "底部完整拉伸",
+        "頂峰停頓",
+        "控制離心避免彈震"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : false
+      },
+      "key" : "LG_C02",
+      "l1" : "legs",
+      "l1Title" : "腿",
+      "l2" : "legsCalves",
+      "l2Title" : "小腿",
+      "muscleWeights" : [
+        {
+          "label" : "小腿",
+          "percentage" : 80
+        },
+        {
+          "label" : "股四頭",
+          "percentage" : 10
+        },
+        {
+          "label" : "腿後",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "Seated Calf Raise",
+      "nameZH" : "坐姿提踵",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "站姿提踵機"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "坐姿提踵機"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "啞鈴"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "自重"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "只做半程",
+        "依靠慣性反彈"
+      ],
+      "cues" : [
+        "底部完整拉伸",
+        "頂峰停頓",
+        "控制離心避免彈震"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : false
+      },
+      "key" : "LG_C03",
+      "l1" : "legs",
+      "l1Title" : "腿",
+      "l2" : "legsCalves",
+      "l2Title" : "小腿",
+      "muscleWeights" : [
+        {
+          "label" : "小腿",
+          "percentage" : 80
+        },
+        {
+          "label" : "股四頭",
+          "percentage" : 10
+        },
+        {
+          "label" : "腿後",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "Leg Press Calf Press",
+      "nameZH" : "腿推提踵",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "站姿提踵機"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "坐姿提踵機"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "啞鈴"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "自重"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "只做半程",
+        "依靠慣性反彈"
+      ],
+      "cues" : [
+        "底部完整拉伸",
+        "頂峰停頓",
+        "控制離心避免彈震"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : false
+      },
+      "key" : "LG_C04",
+      "l1" : "legs",
+      "l1Title" : "腿",
+      "l2" : "legsCalves",
+      "l2Title" : "小腿",
+      "muscleWeights" : [
+        {
+          "label" : "小腿",
+          "percentage" : 80
+        },
+        {
+          "label" : "股四頭",
+          "percentage" : 10
+        },
+        {
+          "label" : "腿後",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "Single-leg Calf Raise",
+      "nameZH" : "單腳提踵",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "站姿提踵機"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "坐姿提踵機"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "啞鈴"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "自重"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "用下背頂起",
+        "膝蓋位置漂移"
+      ],
+      "cues" : [
+        "頂峰夾臀 1 秒",
+        "肋骨下收避免腰代償",
+        "腳跟穩定發力"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : true
+      },
+      "key" : "LG_G01",
+      "l1" : "legs",
+      "l1Title" : "腿",
+      "l2" : "legsGlutes",
+      "l2Title" : "臀",
+      "muscleWeights" : [
+        {
+          "label" : "臀",
+          "percentage" : 70
+        },
+        {
+          "label" : "腿後",
+          "percentage" : 20
+        },
+        {
+          "label" : "股四頭",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "Barbell Hip Thrust",
+      "nameZH" : "槓鈴臀推",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "H*",
+          "environmentTitle" : "Home-possible (rack)",
+          "name" : "槓鈴"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "啞鈴"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "纜繩"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "彈力帶"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "用下背頂起",
+        "膝蓋位置漂移"
+      ],
+      "cues" : [
+        "頂峰夾臀 1 秒",
+        "肋骨下收避免腰代償",
+        "腳跟穩定發力"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : false
+      },
+      "key" : "LG_G02",
+      "l1" : "legs",
+      "l1Title" : "腿",
+      "l2" : "legsGlutes",
+      "l2Title" : "臀",
+      "muscleWeights" : [
+        {
+          "label" : "臀",
+          "percentage" : 70
+        },
+        {
+          "label" : "腿後",
+          "percentage" : 20
+        },
+        {
+          "label" : "股四頭",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "Glute Bridge",
+      "nameZH" : "臀橋",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "H*",
+          "environmentTitle" : "Home-possible (rack)",
+          "name" : "槓鈴"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "啞鈴"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "纜繩"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "彈力帶"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "用下背頂起",
+        "膝蓋位置漂移"
+      ],
+      "cues" : [
+        "頂峰夾臀 1 秒",
+        "肋骨下收避免腰代償",
+        "腳跟穩定發力"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : true
+      },
+      "key" : "LG_G03",
+      "l1" : "legs",
+      "l1Title" : "腿",
+      "l2" : "legsGlutes",
+      "l2Title" : "臀",
+      "muscleWeights" : [
+        {
+          "label" : "臀",
+          "percentage" : 70
+        },
+        {
+          "label" : "腿後",
+          "percentage" : 20
+        },
+        {
+          "label" : "股四頭",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "Bulgarian Split Squat (Glute Bias)",
+      "nameZH" : "保加利亞分腿蹲（臀偏向）",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "H*",
+          "environmentTitle" : "Home-possible (rack)",
+          "name" : "槓鈴"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "啞鈴"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "纜繩"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "彈力帶"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "用下背頂起",
+        "膝蓋位置漂移"
+      ],
+      "cues" : [
+        "頂峰夾臀 1 秒",
+        "肋骨下收避免腰代償",
+        "腳跟穩定發力"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : false
+      },
+      "key" : "LG_G04",
+      "l1" : "legs",
+      "l1Title" : "腿",
+      "l2" : "legsGlutes",
+      "l2Title" : "臀",
+      "muscleWeights" : [
+        {
+          "label" : "臀",
+          "percentage" : 70
+        },
+        {
+          "label" : "腿後",
+          "percentage" : 20
+        },
+        {
+          "label" : "股四頭",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "Cable Glute Kickback",
+      "nameZH" : "纜繩後踢",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "H*",
+          "environmentTitle" : "Home-possible (rack)",
+          "name" : "槓鈴"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "啞鈴"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "纜繩"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "彈力帶"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "下放圓背",
+        "膝蓋過度伸直鎖死"
+      ],
+      "cues" : [
+        "髖折疊主導",
+        "腿後拉長感明確",
+        "保持脊柱中立"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : true
+      },
+      "key" : "LG_H01",
+      "l1" : "legs",
+      "l1Title" : "腿",
+      "l2" : "legsHamstrings",
+      "l2Title" : "腿後",
+      "muscleWeights" : [
+        {
+          "label" : "腿後",
+          "percentage" : 70
+        },
+        {
+          "label" : "臀",
+          "percentage" : 20
+        },
+        {
+          "label" : "下背",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "Romanian Deadlift",
+      "nameZH" : "羅馬尼亞硬拉",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "H*",
+          "environmentTitle" : "Home-possible (rack)",
+          "name" : "槓鈴"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "啞鈴"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "腿彎舉機"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "GHR"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "下放圓背",
+        "膝蓋過度伸直鎖死"
+      ],
+      "cues" : [
+        "髖折疊主導",
+        "腿後拉長感明確",
+        "保持脊柱中立"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : false
+      },
+      "key" : "LG_H02",
+      "l1" : "legs",
+      "l1Title" : "腿",
+      "l2" : "legsHamstrings",
+      "l2Title" : "腿後",
+      "muscleWeights" : [
+        {
+          "label" : "腿後",
+          "percentage" : 70
+        },
+        {
+          "label" : "臀",
+          "percentage" : 20
+        },
+        {
+          "label" : "下背",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "Leg Curl (Machine)",
+      "nameZH" : "腿彎舉（機械）",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "H*",
+          "environmentTitle" : "Home-possible (rack)",
+          "name" : "槓鈴"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "啞鈴"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "腿彎舉機"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "GHR"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "下放圓背",
+        "膝蓋過度伸直鎖死"
+      ],
+      "cues" : [
+        "髖折疊主導",
+        "腿後拉長感明確",
+        "保持脊柱中立"
+      ],
+      "flags" : {
+        "beginnerFriendly" : false,
+        "highSkillRisk" : true
+      },
+      "key" : "LG_H03",
+      "l1" : "legs",
+      "l1Title" : "腿",
+      "l2" : "legsHamstrings",
+      "l2Title" : "腿後",
+      "muscleWeights" : [
+        {
+          "label" : "腿後",
+          "percentage" : 70
+        },
+        {
+          "label" : "臀",
+          "percentage" : 20
+        },
+        {
+          "label" : "下背",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "Nordic Ham Curl",
+      "nameZH" : "Nordic 腿後彎舉",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "H*",
+          "environmentTitle" : "Home-possible (rack)",
+          "name" : "槓鈴"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "啞鈴"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "腿彎舉機"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "GHR"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "下放圓背",
+        "膝蓋過度伸直鎖死"
+      ],
+      "cues" : [
+        "髖折疊主導",
+        "腿後拉長感明確",
+        "保持脊柱中立"
+      ],
+      "flags" : {
+        "beginnerFriendly" : false,
+        "highSkillRisk" : true
+      },
+      "key" : "LG_H04",
+      "l1" : "legs",
+      "l1Title" : "腿",
+      "l2" : "legsHamstrings",
+      "l2Title" : "腿後",
+      "muscleWeights" : [
+        {
+          "label" : "腿後",
+          "percentage" : 70
+        },
+        {
+          "label" : "臀",
+          "percentage" : 20
+        },
+        {
+          "label" : "下背",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "Glute-Ham Raise",
+      "nameZH" : "GHR 臀腿伸展",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "H*",
+          "environmentTitle" : "Home-possible (rack)",
+          "name" : "槓鈴"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "啞鈴"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "腿彎舉機"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "GHR"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "膝內夾",
+        "重心過度前移"
+      ],
+      "cues" : [
+        "膝蓋方向對齊腳尖",
+        "核心 brace，背部中立",
+        "下蹲控制深度"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : true
+      },
+      "key" : "LG_Q01",
+      "l1" : "legs",
+      "l1Title" : "腿",
+      "l2" : "legsQuads",
+      "l2Title" : "股四頭",
+      "muscleWeights" : [
+        {
+          "label" : "股四頭",
+          "percentage" : 50
+        },
+        {
+          "label" : "臀",
+          "percentage" : 30
+        },
+        {
+          "label" : "腿後",
+          "percentage" : 20
+        }
+      ],
+      "nameEN" : "Back Squat",
+      "nameZH" : "槓鈴背蹲",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "H*",
+          "environmentTitle" : "Home-possible (rack)",
+          "name" : "槓鈴"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "啞鈴"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "Smith"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "腿推機"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "腿伸展機"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "膝內夾",
+        "重心過度前移"
+      ],
+      "cues" : [
+        "膝蓋方向對齊腳尖",
+        "核心 brace，背部中立",
+        "下蹲控制深度"
+      ],
+      "flags" : {
+        "beginnerFriendly" : false,
+        "highSkillRisk" : true
+      },
+      "key" : "LG_Q02",
+      "l1" : "legs",
+      "l1Title" : "腿",
+      "l2" : "legsQuads",
+      "l2Title" : "股四頭",
+      "muscleWeights" : [
+        {
+          "label" : "股四頭",
+          "percentage" : 50
+        },
+        {
+          "label" : "臀",
+          "percentage" : 30
+        },
+        {
+          "label" : "腿後",
+          "percentage" : 20
+        }
+      ],
+      "nameEN" : "Front Squat",
+      "nameZH" : "槓鈴前蹲",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "H*",
+          "environmentTitle" : "Home-possible (rack)",
+          "name" : "槓鈴"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "啞鈴"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "Smith"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "腿推機"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "腿伸展機"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "膝內夾",
+        "重心過度前移"
+      ],
+      "cues" : [
+        "膝蓋方向對齊腳尖",
+        "核心 brace，背部中立",
+        "下蹲控制深度"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : false
+      },
+      "key" : "LG_Q03",
+      "l1" : "legs",
+      "l1Title" : "腿",
+      "l2" : "legsQuads",
+      "l2Title" : "股四頭",
+      "muscleWeights" : [
+        {
+          "label" : "股四頭",
+          "percentage" : 50
+        },
+        {
+          "label" : "臀",
+          "percentage" : 30
+        },
+        {
+          "label" : "腿後",
+          "percentage" : 20
+        }
+      ],
+      "nameEN" : "Leg Press",
+      "nameZH" : "腿推機",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "H*",
+          "environmentTitle" : "Home-possible (rack)",
+          "name" : "槓鈴"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "啞鈴"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "Smith"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "腿推機"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "腿伸展機"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "膝內夾",
+        "重心過度前移"
+      ],
+      "cues" : [
+        "膝蓋方向對齊腳尖",
+        "核心 brace，背部中立",
+        "下蹲控制深度"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : false
+      },
+      "key" : "LG_Q04",
+      "l1" : "legs",
+      "l1Title" : "腿",
+      "l2" : "legsQuads",
+      "l2Title" : "股四頭",
+      "muscleWeights" : [
+        {
+          "label" : "股四頭",
+          "percentage" : 50
+        },
+        {
+          "label" : "臀",
+          "percentage" : 30
+        },
+        {
+          "label" : "腿後",
+          "percentage" : 20
+        }
+      ],
+      "nameEN" : "Leg Extension",
+      "nameZH" : "腿伸展機",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "H*",
+          "environmentTitle" : "Home-possible (rack)",
+          "name" : "槓鈴"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "啞鈴"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "Smith"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "腿推機"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "腿伸展機"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "過度後仰推舉",
+        "聳肩搶力"
+      ],
+      "cues" : [
+        "肋骨下收，避免腰椎代償",
+        "手肘與手腕垂直",
+        "動作節奏穩定"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : true
+      },
+      "key" : "SH_F01",
+      "l1" : "shoulders",
+      "l1Title" : "肩",
+      "l2" : "shouldersFront",
+      "l2Title" : "前三角",
+      "muscleWeights" : [
+        {
+          "label" : "前三角",
+          "percentage" : 70
+        },
+        {
+          "label" : "上胸",
+          "percentage" : 20
+        },
+        {
+          "label" : "三頭",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "Barbell Overhead Press",
+      "nameZH" : "槓鈴肩推",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "H*",
+          "environmentTitle" : "Home-possible (rack)",
+          "name" : "槓鈴"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "啞鈴"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "Smith"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "機械肩推"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "過度後仰推舉",
+        "聳肩搶力"
+      ],
+      "cues" : [
+        "肋骨下收，避免腰椎代償",
+        "手肘與手腕垂直",
+        "動作節奏穩定"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : false
+      },
+      "key" : "SH_F02",
+      "l1" : "shoulders",
+      "l1Title" : "肩",
+      "l2" : "shouldersFront",
+      "l2Title" : "前三角",
+      "muscleWeights" : [
+        {
+          "label" : "前三角",
+          "percentage" : 70
+        },
+        {
+          "label" : "上胸",
+          "percentage" : 20
+        },
+        {
+          "label" : "三頭",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "Seated DB Shoulder Press",
+      "nameZH" : "坐姿啞鈴肩推",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "H*",
+          "environmentTitle" : "Home-possible (rack)",
+          "name" : "槓鈴"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "啞鈴"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "Smith"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "機械肩推"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "過度後仰推舉",
+        "聳肩搶力"
+      ],
+      "cues" : [
+        "肋骨下收，避免腰椎代償",
+        "手肘與手腕垂直",
+        "動作節奏穩定"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : false
+      },
+      "key" : "SH_F03",
+      "l1" : "shoulders",
+      "l1Title" : "肩",
+      "l2" : "shouldersFront",
+      "l2Title" : "前三角",
+      "muscleWeights" : [
+        {
+          "label" : "前三角",
+          "percentage" : 70
+        },
+        {
+          "label" : "上胸",
+          "percentage" : 20
+        },
+        {
+          "label" : "三頭",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "Arnold Press",
+      "nameZH" : "阿諾肩推",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "H*",
+          "environmentTitle" : "Home-possible (rack)",
+          "name" : "槓鈴"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "啞鈴"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "Smith"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "機械肩推"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "過度後仰推舉",
+        "聳肩搶力"
+      ],
+      "cues" : [
+        "肋骨下收，避免腰椎代償",
+        "手肘與手腕垂直",
+        "動作節奏穩定"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : false
+      },
+      "key" : "SH_F04",
+      "l1" : "shoulders",
+      "l1Title" : "肩",
+      "l2" : "shouldersFront",
+      "l2Title" : "前三角",
+      "muscleWeights" : [
+        {
+          "label" : "前三角",
+          "percentage" : 70
+        },
+        {
+          "label" : "上胸",
+          "percentage" : 20
+        },
+        {
+          "label" : "三頭",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "DB Front Raise",
+      "nameZH" : "啞鈴前平舉",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "H*",
+          "environmentTitle" : "Home-possible (rack)",
+          "name" : "槓鈴"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "啞鈴"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "Smith"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "機械肩推"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "聳肩過多",
+        "用慣性甩起"
+      ],
+      "cues" : [
+        "抬到肩高即可",
+        "手肘略彎固定",
+        "避免借力甩動"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : false
+      },
+      "key" : "SH_M01",
+      "l1" : "shoulders",
+      "l1Title" : "肩",
+      "l2" : "shouldersMiddle",
+      "l2Title" : "中三角",
+      "muscleWeights" : [
+        {
+          "label" : "中三角",
+          "percentage" : 70
+        },
+        {
+          "label" : "斜方",
+          "percentage" : 20
+        },
+        {
+          "label" : "前三角",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "DB Lateral Raise",
+      "nameZH" : "啞鈴側平舉",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "啞鈴"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "纜繩"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "機械側平舉"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "彈力帶"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "聳肩過多",
+        "用慣性甩起"
+      ],
+      "cues" : [
+        "抬到肩高即可",
+        "手肘略彎固定",
+        "避免借力甩動"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : false
+      },
+      "key" : "SH_M02",
+      "l1" : "shoulders",
+      "l1Title" : "肩",
+      "l2" : "shouldersMiddle",
+      "l2Title" : "中三角",
+      "muscleWeights" : [
+        {
+          "label" : "中三角",
+          "percentage" : 70
+        },
+        {
+          "label" : "斜方",
+          "percentage" : 20
+        },
+        {
+          "label" : "前三角",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "Cable Lateral Raise",
+      "nameZH" : "纜繩側平舉",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "啞鈴"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "纜繩"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "機械側平舉"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "彈力帶"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "聳肩過多",
+        "用慣性甩起"
+      ],
+      "cues" : [
+        "抬到肩高即可",
+        "手肘略彎固定",
+        "避免借力甩動"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : false
+      },
+      "key" : "SH_M03",
+      "l1" : "shoulders",
+      "l1Title" : "肩",
+      "l2" : "shouldersMiddle",
+      "l2Title" : "中三角",
+      "muscleWeights" : [
+        {
+          "label" : "中三角",
+          "percentage" : 70
+        },
+        {
+          "label" : "斜方",
+          "percentage" : 20
+        },
+        {
+          "label" : "前三角",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "Machine Lateral Raise",
+      "nameZH" : "機械側平舉",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "啞鈴"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "纜繩"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "機械側平舉"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "彈力帶"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "聳肩過多",
+        "用慣性甩起"
+      ],
+      "cues" : [
+        "抬到肩高即可",
+        "手肘略彎固定",
+        "避免借力甩動"
+      ],
+      "flags" : {
+        "beginnerFriendly" : false,
+        "highSkillRisk" : true
+      },
+      "key" : "SH_M04",
+      "l1" : "shoulders",
+      "l1Title" : "肩",
+      "l2" : "shouldersMiddle",
+      "l2Title" : "中三角",
+      "muscleWeights" : [
+        {
+          "label" : "中三角",
+          "percentage" : 70
+        },
+        {
+          "label" : "斜方",
+          "percentage" : 20
+        },
+        {
+          "label" : "前三角",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "Upright Row",
+      "nameZH" : "寬握直立划船",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "啞鈴"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "纜繩"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "機械側平舉"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "彈力帶"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "聳肩代償",
+        "重量過重造成擺盪"
+      ],
+      "cues" : [
+        "胸口打開，肩胛穩定",
+        "手肘帶動向外展",
+        "專注後三角收縮"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : false
+      },
+      "key" : "SH_R01",
+      "l1" : "shoulders",
+      "l1Title" : "肩",
+      "l2" : "shouldersRear",
+      "l2Title" : "後三角",
+      "muscleWeights" : [
+        {
+          "label" : "後三角",
+          "percentage" : 70
+        },
+        {
+          "label" : "中背",
+          "percentage" : 20
+        },
+        {
+          "label" : "斜方",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "DB Reverse Fly",
+      "nameZH" : "反向飛鳥（啞鈴）",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "啞鈴"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "纜繩"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "反向蝴蝶機"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "彈力帶"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "聳肩代償",
+        "重量過重造成擺盪"
+      ],
+      "cues" : [
+        "胸口打開，肩胛穩定",
+        "手肘帶動向外展",
+        "專注後三角收縮"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : false
+      },
+      "key" : "SH_R02",
+      "l1" : "shoulders",
+      "l1Title" : "肩",
+      "l2" : "shouldersRear",
+      "l2Title" : "後三角",
+      "muscleWeights" : [
+        {
+          "label" : "後三角",
+          "percentage" : 70
+        },
+        {
+          "label" : "中背",
+          "percentage" : 20
+        },
+        {
+          "label" : "斜方",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "Face Pull",
+      "nameZH" : "面拉",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "啞鈴"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "纜繩"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "反向蝴蝶機"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "彈力帶"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "聳肩代償",
+        "重量過重造成擺盪"
+      ],
+      "cues" : [
+        "胸口打開，肩胛穩定",
+        "手肘帶動向外展",
+        "專注後三角收縮"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : false
+      },
+      "key" : "SH_R03",
+      "l1" : "shoulders",
+      "l1Title" : "肩",
+      "l2" : "shouldersRear",
+      "l2Title" : "後三角",
+      "muscleWeights" : [
+        {
+          "label" : "後三角",
+          "percentage" : 70
+        },
+        {
+          "label" : "中背",
+          "percentage" : 20
+        },
+        {
+          "label" : "斜方",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "Bent-over Cable Reverse Fly",
+      "nameZH" : "俯身反向飛鳥（纜繩）",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "啞鈴"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "纜繩"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "反向蝴蝶機"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "彈力帶"
+        }
+      ]
+    },
+    {
+      "commonMistakes" : [
+        "聳肩代償",
+        "重量過重造成擺盪"
+      ],
+      "cues" : [
+        "胸口打開，肩胛穩定",
+        "手肘帶動向外展",
+        "專注後三角收縮"
+      ],
+      "flags" : {
+        "beginnerFriendly" : true,
+        "highSkillRisk" : false
+      },
+      "key" : "SH_R04",
+      "l1" : "shoulders",
+      "l1Title" : "肩",
+      "l2" : "shouldersRear",
+      "l2Title" : "後三角",
+      "muscleWeights" : [
+        {
+          "label" : "後三角",
+          "percentage" : 70
+        },
+        {
+          "label" : "中背",
+          "percentage" : 20
+        },
+        {
+          "label" : "斜方",
+          "percentage" : 10
+        }
+      ],
+      "nameEN" : "Rear Delt Machine Fly",
+      "nameZH" : "反向蝴蝶機",
+      "repGuide" : "8-12 / 3-6 / 6-10",
+      "variants" : [
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "啞鈴"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "纜繩"
+        },
+        {
+          "environment" : "G",
+          "environmentTitle" : "Gym-only",
+          "name" : "反向蝴蝶機"
+        },
+        {
+          "environment" : "H",
+          "environmentTitle" : "Home-possible",
+          "name" : "彈力帶"
+        }
+      ]
+    }
+  ],
+  "generatedAt" : "2026-02-26T19:49:33.206Z",
+  "schemaVersion" : "1.0",
+  "totalExercises" : 92,
+  "trainingModes" : [
+    {
+      "id" : "hypertrophy",
+      "lowerBound" : 8,
+      "reps" : "8-12 reps",
+      "title" : "增肌",
+      "upperBound" : 12
+    },
+    {
+      "id" : "strength",
+      "lowerBound" : 3,
+      "reps" : "3-6 reps",
+      "title" : "力量",
+      "upperBound" : 6
+    },
+    {
+      "id" : "balanced",
+      "lowerBound" : 6,
+      "reps" : "6-10 reps",
+      "title" : "平衡",
+      "upperBound" : 10
+    }
+  ]
+}
