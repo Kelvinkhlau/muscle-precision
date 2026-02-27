@@ -72,3 +72,15 @@ xcodebuild \
   2. 編譯並執行 JSON 匯出器（輸出到 `/tmp/exercises.v1.json`）
   3. 檢查匯出結果是否維持 `92` 筆
   4. 執行 `MusclePrecision/Scripts/ci_run_tests.sh`（自動選可用 iPhone simulator 後跑 `xcodebuild test`）
+
+## 自動版本標籤（SemVer Tags）
+
+- Workflow 檔案：`.github/workflows/auto-version-tag.yml`
+- 觸發時機：
+  - 每次 push 到 `main`
+  - 手動 `workflow_dispatch`（可指定 `major/minor/patch/auto`）
+- 規則：
+  - `BREAKING CHANGE` 或 `!:` → `major`
+  - `feat:` → `minor`
+  - 其他情況 → `patch`
+- 產出格式：`vX.Y.Z`（例如 `v1.2.3`）
