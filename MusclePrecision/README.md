@@ -84,3 +84,13 @@ xcodebuild \
   - `feat:` → `minor`
   - 其他情況 → `patch`
 - 產出格式：`vX.Y.Z`（例如 `v1.2.3`）
+
+## 自動 Release Notes
+
+- Workflow 檔案：`.github/workflows/publish-release.yml`
+- 觸發時機：
+  - 當 `v*` tag 被 push（例如 `v1.2.3`）
+  - 手動 `workflow_dispatch`（輸入既有 tag）
+- 行為：
+  - 依 tag 自動建立 GitHub Release
+  - 自動生成 release notes（`generate_release_notes: true`）
